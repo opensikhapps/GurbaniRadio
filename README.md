@@ -1,3 +1,5 @@
+### 🙏 Waheguru Ji Ka Khalsa Waheguru Ji Ki Fateh ji 🙏
+
 <div align=center><img src="https://user-images.githubusercontent.com/38007519/39290477-e1bac174-4959-11e8-9229-836355a74a7c.png"/></div>
 
 # <div align=center>Android radio streaming app based on <a href="http://www.radio-browser.info" target="_blank">Radio Browser</a></div>
